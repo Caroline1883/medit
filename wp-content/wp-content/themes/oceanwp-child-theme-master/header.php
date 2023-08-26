@@ -90,7 +90,7 @@ $('.popup-close').click(function(){
 <!-- Ajout d'un bouton contact au menu -->
 
 
-<?php echo("coucou")
+<?php 
 
 /**
  * Shortcode pour ajouter un bouton
