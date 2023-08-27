@@ -71,6 +71,7 @@ $lien=get_field('lien_google_maps', 161);
 			</div>
 		</div>
 		<p class="popup-informations">Vous souhaitez plus d'informations concernant cet événement ?</p>
+		<!-- <?php var_dump($lien)?> -->
 		<?php
 		// On insère le formulaire de demandes de renseignements
 		echo do_shortcode('[contact-form-7 id="910" title="Formulaire salon New York"]');
