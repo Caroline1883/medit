@@ -5779,3 +5779,70 @@ Stack trace:
 [27-Aug-2023 13:01:35 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
 [27-Aug-2023 13:01:35 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
 [27-Aug-2023 13:01:35 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:06:37 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:06:37 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:08:47 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:08:47 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:08:47 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:09:07 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:09:07 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:09:07 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:10:08 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:10:08 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:10:10 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:10:10 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:10:10 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:10:11 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:10:11 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:10:11 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:10:52 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:10:52 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:10:52 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:35 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:35 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:37 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:11:37 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:37 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:37 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:11:37 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:37 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:38 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:11:38 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:38 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:43 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:43 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:45 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:11:45 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:45 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:45 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:11:45 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:45 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:45 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:11:45 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:45 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:52 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:52 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:53 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:11:53 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:53 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:54 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:11:54 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:11:54 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:12:25 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 13:12:26 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:12:26 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:12:27 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:12:27 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:12:27 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:12:28 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:12:28 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:12:28 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:12:59 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:13:00 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:13:00 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:13:16 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:13:16 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:13:16 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:13:22 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\medit\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[27-Aug-2023 13:13:22 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
+[27-Aug-2023 13:13:22 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\medit\wp-includes\functions.php on line 5279
