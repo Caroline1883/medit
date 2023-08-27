@@ -82,9 +82,12 @@ $lien=get_field('lien_google_maps', 161);
 <!-- Code pour fermer la popup -->
 
 <script>
-jQuery('.popup-salon').click(function(){
-	jQuery(this).parent().hide();
-})
+jQuery(function($) {
+    $('.popup-close').click(function() {
+        $('.popup-salon').hide();
+		$('.popup-overlay').removeClass('popup-overlay');
+    });
+});
 </script>
 
 
