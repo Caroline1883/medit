@@ -31,7 +31,6 @@ add_action( 'wp_enqueue_scripts', 'oceanwp_child_enqueue_parent_style' );
 
 
 
-
 function contact_btn( $items, $args ) {
 	$items .= '<a href="/contact" class="contact-btn">Nous contacter</a>';
 	return $items;

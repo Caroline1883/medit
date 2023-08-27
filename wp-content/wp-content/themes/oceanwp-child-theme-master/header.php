@@ -81,7 +81,7 @@ $lien=get_field('lien_google_maps', 161);
 <!-- Code pour fermer la popup -->
 
 <script>
-$('.popup-close').click(function(){
+jQuery('.popup-close').click(function(){
 	$(this).parent().hide();
 })
 </script>
